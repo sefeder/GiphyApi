@@ -12,7 +12,7 @@ HTML,
 CSS/Bootstrap, 
 JavaScript, 
 JQuery, 
-AJAX Requests/APIs,
+AJAX Requests/APIs
 
 Future Versions:
 
